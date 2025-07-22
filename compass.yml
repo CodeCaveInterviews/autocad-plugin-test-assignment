@@ -1,0 +1,16 @@
+name: autocad-plugin-test-assignment
+id: ari:cloud:compass:03d65e25-e64b-4f9b-a03c-ee77eb7ca52c:component/35f21fc9-0ad4-430a-b567-79e14ff0d558/04565e19-6ef5-4d12-8f00-fce11a8434ba
+description: AutoCAD plugin developer test assignment
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/CodeCavePro/autocad-plugin-test-assignment
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
